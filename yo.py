@@ -4,3 +4,4 @@ def yo(a: int):
 result = yo(5)
 print(result)  # print 10
 
+# search made in GPT chat
